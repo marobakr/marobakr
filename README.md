@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Full Stack(Angular, ASP.NET)**
 
-- 👨‍💻 All of my projects are available at [https://mostaql.com/u/Marwan__Abubakr/portfolio](https://mostaql.com/u/Marwan__Abubakr/portfolio)
-
 - ⚡ Fun fact **t I am funny😅**
 
 <h3 align="left">Connect with me:</h3>
