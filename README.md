@@ -54,8 +54,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/marobakr/marobakr/output/snake.svg" alt="Snake animation" />
-
-###
