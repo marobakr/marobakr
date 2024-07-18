@@ -55,7 +55,7 @@
 <br clear="both">
 # Welcome to My GitHub Profile!
 
-<iframe src="https://marobakr.github.io/visitor-counter/" frameborder="0" width="300" height="100"></iframe>
+<iframe src="https://github.com/marobakr/visitor-counter" frameborder="0" width="300" height="100"></iframe>
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
 
