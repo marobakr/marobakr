@@ -41,6 +41,8 @@
   <a href="https://www.linkedin.com/in/marwan-abubakr-2b504528a/"> 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a
+    ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Marwan-Abubakr.Marwan-Abubakr&left_text=MyPageVisitors)
+
 </div>
 
 ###
@@ -54,6 +56,4 @@
 
 <br clear="both">
 
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Marwan-Abubakr.Marwan-Abubakr&left_text=MyPageVisitors)
 
-Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
