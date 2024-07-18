@@ -53,8 +53,7 @@
 ###
 
 <br clear="both">
-# Welcome to My GitHub Profile!
 
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=Marwan-Abubakr.Marwan-Abubakr&left_text=MyPageVisitors)
+![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Marwan-Abubakr.Marwan-Abubakr&left_text=MyPageVisitors)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
