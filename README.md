@@ -55,7 +55,6 @@
 <br clear="both">
 # Welcome to My GitHub Profile!
 
-<iframe src="https://github.com/marobakr/visitor-counter" frameborder="0" width="300" height="100"></iframe>
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Marwan-Abubakr.Marwan-Abubakr)
 
 Thank you for visiting my profile! Feel free to reach out if you have any questions or if you'd like to collaborate on a project.
-
