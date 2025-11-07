@@ -34,7 +34,6 @@
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/48/000000/server.png" height="50" alt="SSR"/>
       <br/><strong>SSR & SSG</strong>
-      <br/><sub>Built-in SSR</sub>
       <br/><sub>Prerendering, Hydration</sub>
     </td>
     <td align="center" width="25%">
@@ -52,63 +51,6 @@
   </tr>
 </table>
 </div>
-
----
-
-## 💼 Professional Highlights
-
-```typescript
-const marwanAbubakr = {
-  role: "Expert Angular Developer",
-  expertise: {
-    framework: [
-      "Angular 17+",
-      "Signals",
-      "RxJS",
-      "NgRx",
-      "Standalone Components",
-    ],
-    rendering: [
-      "Server-Side Rendering (SSR)",
-      "Static Site Generation (SSG)",
-      "Hydration",
-    ],
-    styling: ["Tailwind CSS v3/v4", "SCSS", "PrimeNG", "Flowbite Angular"],
-    seo: [
-      "Meta Title & Description",
-      "Canonical URLs",
-      "Hreflang Tags",
-      "Structured Data",
-      "Open Graph",
-      "Twitter Cards",
-    ],
-    performance: [
-      "Core Web Vitals",
-      "Lazy Loading",
-      "Bundle Size Optimization",
-      "Image Optimization",
-    ],
-    testing: ["Karma", "Jasmine", "Cypress", "Testing Library"],
-    architecture: [
-      "Micro Frontends",
-      "Modular Architecture",
-      "Clean Code Principles",
-    ],
-  },
-  focus: [
-    "Building scalable enterprise applications",
-    "Optimizing for search engines and performance",
-    "Implementing modern Angular best practices",
-    "Delivering exceptional user experiences",
-  ],
-  currentlyLearning: [
-    "Angular v19 features",
-    "Tailwind CSS v4",
-    "Advanced Performance Patterns",
-  ],
-  availableForWork: true,
-};
-```
 
 ---
 
@@ -176,6 +118,63 @@ const marwanAbubakr = {
 
 ---
 
+## 💼 Professional Highlights
+
+```typescript
+const marwanAbubakr = {
+  role: "Expert Angular Developer",
+  expertise: {
+    framework: [
+      "Angular 17+",
+      "Signals",
+      "RxJS",
+      "NgRx",
+      "Standalone Components",
+    ],
+    rendering: [
+      "Server-Side Rendering (SSR)",
+      "Static Site Generation (SSG)",
+      "Hydration",
+    ],
+    styling: ["Tailwind CSS v3/v4", "SCSS", "PrimeNG", "Flowbite Angular"],
+    seo: [
+      "Meta Title & Description",
+      "Canonical URLs",
+      "Hreflang Tags",
+      "Structured Data",
+      "Open Graph",
+      "Twitter Cards",
+    ],
+    performance: [
+      "Core Web Vitals",
+      "Lazy Loading",
+      "Bundle Size Optimization",
+      "Image Optimization",
+    ],
+    testing: ["Karma", "Jasmine", "Cypress", "Testing Library"],
+    architecture: [
+      "Micro Frontends",
+      "Modular Architecture",
+      "Clean Code Principles",
+    ],
+  },
+  focus: [
+    "Building scalable enterprise applications",
+    "Optimizing for search engines and performance",
+    "Implementing modern Angular best practices",
+    "Delivering exceptional user experiences",
+  ],
+  currentlyLearning: [
+    "Angular v19 features",
+    "Tailwind CSS v4",
+    "Advanced Performance Patterns",
+  ],
+  availableForWork: true,
+};
+```
+
+---
+
 ## 🎯 What I Do Best
 
 <details open>
@@ -236,13 +235,10 @@ const marwanAbubakr = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marobakr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=marobakr&theme=radical&hide_border=true&border_radius=5" height="170" alt="GitHub Streak" />
   <img src="https://github-profile-trophy.vercel.app?username=marobakr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=marobakr&theme=radical&hide_border=true&border_radius=5" height="170" alt="GitHub Streak" />
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marobakr&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
@@ -296,84 +292,6 @@ I maintain comprehensive technical documentation on Notion covering various tech
 
 </div>
 
----
-
-## 🏆 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🎯 Enterprise Angular Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/marobakr/project1">
-          <img src="https://img.shields.io/badge/View_Project-DD0031?style=for-the-badge&logo=angular" alt="View Project" />
-        </a>
-      </div>
-      <br/>
-      <p><strong>Tech Stack:</strong> Angular 19, PrimeNG, Tailwind v4, NgRx, SSR</p>
-      <p>🚀 Full-featured dashboard with real-time data visualization, advanced filtering, and responsive design</p>
-      <p>
-        • Server-side rendering for optimal SEO<br/>
-        • State management with NgRx Signals<br/>
-        • 95+ Lighthouse performance score<br/>
-        • Modular architecture with standalone components
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 E-Commerce Platform</h3>
-      <div align="center">
-        <a href="https://github.com/marobakr/project2">
-          <img src="https://img.shields.io/badge/View_Project-DD0031?style=for-the-badge&logo=angular" alt="View Project" />
-        </a>
-      </div>
-      <br/>
-      <p><strong>Tech Stack:</strong> Angular 18, Tailwind CSS, .NET Core, SQL Server</p>
-      <p>💼 Scalable e-commerce solution with product catalog, cart, and checkout</p>
-      <p>
-        • SEO-optimized product pages<br/>
-        • Lazy loading for optimal performance<br/>
-        • Payment gateway integration<br/>
-        • Responsive design with Tailwind CSS
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📝 Content Management System</h3>
-      <div align="center">
-        <a href="https://github.com/marobakr/project3">
-          <img src="https://img.shields.io/badge/View_Project-DD0031?style=for-the-badge&logo=angular" alt="View Project" />
-        </a>
-      </div>
-      <br/>
-      <p><strong>Tech Stack:</strong> Angular 19, Built-in SSR, PrimeNG, SCSS</p>
-      <p>✏️ Headless CMS with rich text editor and media management</p>
-      <p>
-        • Built-in SSR for public-facing content<br/>
-        • Dynamic meta tags and structured data<br/>
-        • Role-based access control<br/>
-        • RESTful API integration
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🎨 Angular Component Library</h3>
-      <div align="center">
-        <a href="https://github.com/marobakr/project4">
-          <img src="https://img.shields.io/badge/View_Project-DD0031?style=for-the-badge&logo=angular" alt="View Project" />
-        </a>
-      </div>
-      <br/>
-      <p><strong>Tech Stack:</strong> Angular 19, Tailwind v4, Storybook, Jest</p>
-      <p>🎨 Reusable component library with comprehensive documentation</p>
-      <p>
-        • 50+ accessible components<br/>
-        • Full TypeScript support<br/>
-        • Storybook documentation<br/>
-        • 100% test coverage
-      </p>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -424,7 +342,7 @@ I'm always interested in collaborating on innovative projects and discussing Ang
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marwan-abubakr-2b504528a)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@GeekCodeDev)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:marwanabubakr0o.o0@gmail.com)
 
 </div>
 
