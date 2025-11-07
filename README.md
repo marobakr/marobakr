@@ -238,7 +238,6 @@ const marwanAbubakr = {
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marobakr&theme=radical&hide_border=true&border_radius=5" height="170" alt="GitHub Streak" />
-  <img src="https://github-profile-trophy.vercel.app?username=marobakr&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" height="170" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
