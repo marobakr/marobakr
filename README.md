@@ -22,6 +22,7 @@
 
 ## 🚀 Core Expertise
 
+<div align="center">
 <table>
   <tr>
     <td align="center" width="25%">
@@ -33,7 +34,7 @@
     <td align="center" width="25%">
       <img src="https://img.icons8.com/color/48/000000/server.png" height="50" alt="SSR"/>
       <br/><strong>SSR & SSG</strong>
-      <br/><sub>Angular Universal</sub>
+      <br/><sub>Built-in SSR</sub>
       <br/><sub>Prerendering, Hydration</sub>
     </td>
     <td align="center" width="25%">
@@ -50,6 +51,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 ---
 
@@ -73,7 +75,9 @@ const marwanAbubakr = {
     ],
     styling: ["Tailwind CSS v3/v4", "SCSS", "PrimeNG", "Flowbite Angular"],
     seo: [
-      "Meta Tags Management",
+      "Meta Title & Description",
+      "Canonical URLs",
+      "Hreflang Tags",
       "Structured Data",
       "Open Graph",
       "Twitter Cards",
@@ -84,7 +88,7 @@ const marwanAbubakr = {
       "Bundle Size Optimization",
       "Image Optimization",
     ],
-    testing: ["Jasmine", "Karma", "Jest", "Cypress", "Testing Library"],
+    testing: ["Karma", "Jasmine", "Cypress", "Testing Library"],
     architecture: [
       "Micro Frontends",
       "Modular Architecture",
@@ -164,9 +168,8 @@ const marwanAbubakr = {
 
 <div align="center">
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-56C5A8?style=for-the-badge&logo=karma&logoColor=white)
 ![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
 
 </div>
@@ -192,7 +195,7 @@ const marwanAbubakr = {
 <summary><b>⚡ Server-Side Rendering (SSR)</b></summary>
 <br/>
 
-- ✅ Implement **Angular Universal** for server-side rendering
+- ✅ Implement **Angular built-in SSR** for server-side rendering
 - ✅ Configure **prerendering** strategies for static pages
 - ✅ Optimize **hydration** for seamless client-side takeover
 - ✅ Handle **SEO-critical** content with SSR
@@ -231,6 +234,7 @@ const marwanAbubakr = {
 ---
 
 ## 📊 GitHub Statistics
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=marobakr&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=marobakr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
@@ -242,6 +246,55 @@ const marwanAbubakr = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marobakr&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
+</div>
+
+---
+
+## 📖 Developer Documentation
+
+<div align="center">
+
+I maintain comprehensive technical documentation on Notion covering various technologies and best practices. These resources are designed to help developers at all levels master modern web development.
+
+<table>
+  <tr>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular"/>
+      <br/><strong>Angular</strong>
+      <br/><sub><a href="#">📚 View Docs</a></sub>
+    </td>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>
+      <br/><strong>JavaScript</strong>
+      <br/><sub><a href="#">📚 View Docs</a></sub>
+    </td>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="TypeScript"/>
+      <br/><strong>TypeScript</strong>
+      <br/><sub><a href="#">📚 View Docs</a></sub>
+    </td>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/sass/CC6699" height="40" alt="SCSS"/>
+      <br/><strong>SCSS</strong>
+      <br/><sub><a href="#">📚 View Docs</a></sub>
+    </td>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git"/>
+      <br/><strong>Git & GitHub</strong>
+      <br/><sub><a href="#">📚 View Docs</a></sub>
+    </td>
+    <td align="center" width="16.66%">
+      <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#"/>
+      <br/><strong>C#</strong>
+      <br/><sub><a href="#">📚 View Docs</a></sub>
+    </td>
+  </tr>
+</table>
+
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+![Documentation](https://img.shields.io/badge/Documentation-Comprehensive-blue?style=for-the-badge)
+![Updated](https://img.shields.io/badge/Status-Regularly_Updated-success?style=for-the-badge)
+
 </div>
 
 ---
@@ -294,10 +347,10 @@ const marwanAbubakr = {
         </a>
       </div>
       <br/>
-      <p><strong>Tech Stack:</strong> Angular 17, Angular Universal, PrimeNG, SCSS</p>
+      <p><strong>Tech Stack:</strong> Angular 19, Built-in SSR, PrimeNG, SCSS</p>
       <p>✏️ Headless CMS with rich text editor and media management</p>
       <p>
-        • SSR for public-facing content<br/>
+        • Built-in SSR for public-facing content<br/>
         • Dynamic meta tags and structured data<br/>
         • Role-based access control<br/>
         • RESTful API integration
@@ -340,54 +393,14 @@ Backend Integration   █████████████████░░�
 
 ---
 
-## 🎓 Angular Best Practices I Follow
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      
-**🏗️ Architecture**
-- Standalone components
-- Modular design
-- Lazy loading
-- Smart/Dumb pattern
-- Clean separation of concerns
-      
-    </td>
-    <td width="33%" valign="top">
-      
-**⚡ Performance**
-- OnPush change detection
-- TrackBy functions
-- Virtual scrolling
-- Image optimization
-- Bundle size optimization
-      
-    </td>
-    <td width="33%" valign="top">
-      
-**🧪 Quality**
-- Unit & E2E testing
-- Type safety
-- ESLint & Prettier
-- Code reviews
-- Documentation
-      
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📚 Latest Blog Posts & Articles
 
 <!-- BLOG-POST-LIST:START -->
 
-- 🚀 [Mastering Angular Server-Side Rendering in 2024](#)
-- ⚡ [Performance Optimization Techniques for Angular Applications](#)
-- 🔍 [Complete Guide to SEO in Angular Universal](#)
-- 💡 [Angular Signals: The Future of State Management](#)
-- 🎯 [Building Scalable Enterprise Apps with Angular](#)
+- 🧾 [How to Build an ATS-Friendly CV](https://www.linkedin.com/posts/marwan-abubakr-2b504528a_%D8%A7%D9%84%D9%80-cv-%D9%85%D8%B4-friendly-%D9%85%D8%B9-ats-%D9%85%D8%B4%D9%83%D9%84%D8%A9-%D8%A7%D9%84-cv-%D9%85%D8%B9-activity-7370138414328938497-rgzT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYhB2kBRwcefbKCbLXV4i3cizO47eZqsW4)
+- 🗂️ [Notion Document for Front-End Developers & Mentors](https://www.linkedin.com/posts/marwan-abubakr-2b504528a_%D9%84%D9%88-%D8%A3%D9%86%D8%AA-front-end-%D8%A3%D9%88-mentor-%D8%A3%D9%88-instructor-activity-7255271182365548545-6HI5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYhB2kBRwcefbKCbLXV4i3cizO47eZqsW4)
+- 🧩 [JavaScript Hoisting Explained Like Never Before](https://www.linkedin.com/posts/marwan-abubakr-2b504528a_%D8%A7%D9%84%D9%80-hoisting-%D9%83%D9%85%D8%A7-%D9%84%D9%85-%D8%AA%D8%B3%D9%85%D8%B9%D9%87-%D8%B9%D9%86%D9%87-%D9%85%D9%86-%D9%82%D8%A8%D9%84-%D8%A7%D9%84%D9%83%D9%88%D8%AF-activity-7252356930197766145-GeFm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYhB2kBRwcefbKCbLXV4i3cizO47eZqsW4)
+- 🌀 [Lazy Loading vs Preloading vs Eager Loading in Angular](https://www.linkedin.com/posts/marwan-abubakr-2b504528a_lazy-loading-vs-preloading-vs-eager-loading-activity-7249459735513489408-17NH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEYhB2kBRwcefbKCbLXV4i3cizO47eZqsW4)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -413,7 +426,6 @@ I'm always interested in collaborating on innovative projects and discussing Ang
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/marwan-abubakr-2b504528a)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@GeekCodeDev)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:your.email@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel)](https://yourportfolio.com)
 
 </div>
 
@@ -422,7 +434,12 @@ I'm always interested in collaborating on innovative projects and discussing Ang
 ## 🐍 Contribution Activity
 
 <div align="center">
-<img src="https://github.com/marobakr/marobakr/blob/main/snake.yml" alt="Snake animation" /></div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marobakr/marobakr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marobakr/marobakr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/marobakr/marobakr/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
 
 ---
 
