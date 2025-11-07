@@ -14,7 +14,7 @@
   [![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marobakr.marobakr)](https://github.com/marobakr)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marwan-abubakr-2b504528a)
   [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@GeekCodeDev)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marwanabubakr0o.o0@gmail.com)
   
 </div>
 
