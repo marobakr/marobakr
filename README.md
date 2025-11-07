@@ -283,7 +283,7 @@ I maintain comprehensive technical documentation on Notion covering various tech
       <br/><sub><a href="https://marwanabubakr-dev.notion.site/GitHub-16fed48d9f6a477a9ca222d48ba447f0?pvs=74">📚 View Docs</a></sub>
     </td>
     <td align="center" width="16.66%">
-      <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#"/>
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" height="40" alt="C#"/>
       <br/><strong>C#</strong>
       <br/><sub><a href="https://marwanabubakr-dev.notion.site/C-Documentation-2a43068e0ca0803f9392d4b5a0a77849">📚 View Docs</a></sub>
     </td>
