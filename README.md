@@ -424,7 +424,7 @@ I'm always interested in collaborating on innovative projects and discussing Ang
 ## 🐍 Contribution Activity
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/marobakr/marobakr/output/snake.svg" alt="Snake animation" />
+  <img src="[https://raw.githubusercontent.com/marobakr/marobakr/output/snake.svg](https://github.com/marobakr/marobakr/blob/main/snake.yml)" alt="Snake animation" />
 </div>
 
 ---
