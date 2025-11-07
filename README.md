@@ -236,6 +236,10 @@ const marwanAbubakr = {
   <img src="https://github-profile-trophy.vercel.app?username=marobakr&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=marobakr&theme=radical&hide_border=true&border_radius=5" height="170" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app?username=marobakr&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=4" height="170" alt="GitHub Trophies" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=marobakr&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" width="95%" alt="Contribution Graph" />
