@@ -261,7 +261,7 @@ I maintain comprehensive technical documentation on Notion covering various tech
     <td align="center" width="16.66%">
       <img src="https://cdn.simpleicons.org/angular/DD0031" height="40" alt="Angular"/>
       <br/><strong>Angular</strong>
-      <br/><sub><a href="[#](https://marwanabubakr-dev.notion.site/Angular-Documentation-2a43068e0ca0802ebe51e350d5a0fa14)">📚 View Docs</a></sub>
+      <br/><sub><a href="[📚 View Docs](https://marwanabubakr-dev.notion.site/Angular-Documentation-2a43068e0ca0802ebe51e350d5a0fa14)"></a></sub>
     </td>
     <td align="center" width="16.66%">
       <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="JavaScript"/>
